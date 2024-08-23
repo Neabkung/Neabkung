@@ -5,7 +5,7 @@
 
 <h1 align="center">Stats?</h1>
 
-- I don't quite use GitHub. :sad:
+- I don't quite use GitHub.
 
 <div>
   <table>
