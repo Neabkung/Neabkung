@@ -30,6 +30,6 @@ Game Engine :
 
 Tool :
 
-![](https://skillicons.dev/icons?i=pycharm,vscode)
+![](https://skillicons.dev/icons?i=pycharm,vscode,visualstudio)
 
 <h1 align="center">Don't mind me pls.</h1>
