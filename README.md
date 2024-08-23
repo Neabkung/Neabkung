@@ -18,8 +18,6 @@
 
 - I don't have skill. :sad:
 
-<h1 align="center">What can i write?</h1>
-
 Language :
 
 ![](https://skillicons.dev/icons?i=python,html,css,js,lua,cpp,cs)
