@@ -32,4 +32,4 @@ Tool :
 
 ![](https://skillicons.dev/icons?i=pycharm,vscode,visualstudio)
 
-<h1 align="center">Don't mind me pls.</h1>
+<!--<h1 align="center">Don't mind me pls.</h1>-->
