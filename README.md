@@ -20,8 +20,16 @@
 
 <h1 align="center">What can i write?</h1>
 
+Language :
+
 ![](https://skillicons.dev/icons?i=python,html,css,js,lua,cpp,cs)
 
+Game Engine :
+
 ![](https://skillicons.dev/icons?i=robloxstudio,unity)
+
+Tool :
+
+![](https://skillicons.dev/icons?i=pycharm,vscode)
 
 <h1 align="center">Don't mind me pls.</h1>
